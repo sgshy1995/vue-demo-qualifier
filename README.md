@@ -1,5 +1,8 @@
 # vue-demo-qualifier
 
+- 几个 vue 的修饰符
+- for 循环
+
 ## Project setup
 ```
 yarn install
